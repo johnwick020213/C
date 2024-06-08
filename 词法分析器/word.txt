@@ -1,0 +1,11 @@
+i love xixi
+int main
+if else
+'d'
+"asasas"
+'\0'
+12.34
+1*2+3-4
+>>
+++
+()
