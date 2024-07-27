@@ -11,6 +11,7 @@ typedef struct {
     int size;
 } Stack;
 
+
 // API
 Stack* stack_create(void);
 void stack_destroy(Stack* s);
